@@ -1,5 +1,5 @@
 ## Yitong Li
-![](link?)
+![](https://github.com/yt-li/yt-li.github.io/blob/master/LYT.png)
   
 PhD Student | Power & Energy Engineer  
 Department of Electrical and Electronic Engineering  
