@@ -7,7 +7,7 @@ Imperial College London
   
 [Linkedin](https://www.linkedin.com/in/yitong-li/)  
   
-[Selected Publications](https://yt-li.github.io/Publications)
+[Selected Publications](https://yt-li.github.io/publication)
 
 <br />
 <br />
