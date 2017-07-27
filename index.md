@@ -1,5 +1,6 @@
 ## Yitong Li
-![](link?)  
+![](link?)
+  
 PhD Student | Power & Energy Engineer  
 Department of Electrical and Electronic Engineering  
 Imperial College London  
