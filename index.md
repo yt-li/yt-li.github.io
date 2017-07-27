@@ -5,7 +5,7 @@ PhD Student | Power & Energy Engineer
 Department of Electrical and Electronic Engineering  
 Imperial College London  
   
-[Linkedin](https://www.linkedin.com/in/yitong-li/)  
+[Linkedin](https://www.linkedin.com/in/yitong-li/)
 
 <br />
 
