@@ -6,7 +6,6 @@ Department of Electrical and Electronic Engineering
 Imperial College London  
   
 - [Linkedin](https://www.linkedin.com/in/yitong-li/)  
-  
 - [Selected Publications](https://yt-li.github.io/publication)
 
 <br />
