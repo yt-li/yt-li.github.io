@@ -6,7 +6,7 @@
   
 ### Yitong Li
 在读博士生  
-电气与电子工程系
+电气与电子工程系  
 帝国理工
   
 - [领英帐号](https://www.linkedin.com/in/yitong-li/)  
