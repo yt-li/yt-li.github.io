@@ -1,4 +1,5 @@
   
+[中文版](https://yt-li.github.io/namecard_cn) | [English](https://yt-li.github.io)    
   
 ![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT.png)
   
