@@ -13,3 +13,7 @@
   
 - [领英帐号](https://www.linkedin.com/in/yitong-li/)  
 - [论文](https://yt-li.github.io/publication)
+
+<br />
+
+更新：2017年8月
