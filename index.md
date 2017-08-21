@@ -16,4 +16,4 @@ Imperial College London
 <br />
 <br />
 
-*Update: July 2017*
+*Update: Aug 2017*
