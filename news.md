@@ -2,7 +2,7 @@
 
 ### Related News
 
-
+<br />
 
 06 Nov 2017, Imperial College London, "[We are delighted to have welcomed new postgraduate students to the Department](http://www.imperial.ac.uk/news/182932/we-delighted-have-welcomed-postgraduate-students/)"
 
