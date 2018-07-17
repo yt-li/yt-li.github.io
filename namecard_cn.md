@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT.png)
   
-### Yitong Li
+## Yitong Li
 在读博士生  
 电气与电子工程系  
 帝国理工学院
