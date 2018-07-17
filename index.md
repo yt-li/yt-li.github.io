@@ -12,6 +12,7 @@ Imperial College London
   
 - [Linkedin](https://www.linkedin.com/in/yitong-li/)  
 - [Publication](https://yt-li.github.io/publication)
+- Google Scholar
 
 <br />
 <br />
