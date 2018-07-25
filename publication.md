@@ -14,7 +14,7 @@
 
 ### Conference
 
-**Yitong Li**, Wei Xu*, "[Optimization and performance analysis of E-core and C-core flux-switching permanent-magnet machines for electric vehicle applications](https://ieeexplore.ieee.org/document/7013436/)", 17th International Conference on Electrical Machines and Systems (ICEMS), 2014.
+**Yitong Li**, Wei Xu*, "[Optimization and performance analysis of E-core and C-core flux-switching permanent-magnet machines for electric vehicle applications](https://ieeexplore.ieee.org/document/7013436/)", International Conference on Electrical Machines and Systems (ICEMS), 2014.
 
 <br />
 
