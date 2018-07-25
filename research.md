@@ -7,4 +7,5 @@
 <br />
 
 * Advanced ac-dc converters for bipolar dc distribution.
-&emsp Proposed few ac-dc converter topologies with bipolar dc outputs. The proposed converters potentially have lower losses, less device costs, and higher power density. (Details)
+
+    Proposed ac-dc converter topologies with single ac input and bipolar dc output. The proposed topologies have potentially lower losses, less device costs, and high power density.
