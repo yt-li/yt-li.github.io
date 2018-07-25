@@ -10,8 +10,6 @@ Yitong`s current research areas mianly include power electronic converters, dist
 
 ### Highlights
 
-<br />
-
 * **Advanced ac-dc converters for bipolar dc distribution.**
 
     The proposed ac-dc topologies enable bidirectional power flow and are able to feed bipolar dc poles (i.e. positive line, negative line, and neutral line) with potentially lower losses, less device costs, and a higher power density.
