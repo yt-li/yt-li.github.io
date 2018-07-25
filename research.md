@@ -12,4 +12,4 @@ Yitong`s current research areas mianly include power electronic converters, dist
 
 * **Advanced ac-dc converters for bipolar dc distribution.**
 
-    The proposed ac-dc topologies enable bidirectional power flow and are able to feed bipolar dc poles (i.e. positive line, negative line, and neutral line) with potentially lower losses, less device costs, and a higher power density.
+    The proposed ac-dc converter topologies are PWM-VSC-based. They can enable bidirectional power flow, and feed bipolar dc poles (i.e. three-wire dc system with positive, negative, and neutral lines) with potentially lower losses, less device costs, and a higher power density.
