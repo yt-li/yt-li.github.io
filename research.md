@@ -1,4 +1,6 @@
 ## Research
 
-Highlighted Research Contributions:
+<br />
+
+### Highlighted Research Contributions:
 * Advanced ac-dc converters for bipolar dc distribution.
