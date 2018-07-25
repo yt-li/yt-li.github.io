@@ -10,6 +10,7 @@ PhD Student
 Department of Electrical and Electronic Engineering  
 Imperial College London  
 
+- [Research](https://yt-li.github.io/research)
 - [Publication](https://yt-li.github.io/publication)
 - Google Scholar
 - [Linkedin](https://www.linkedin.com/in/yitong-li/)
