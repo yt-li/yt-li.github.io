@@ -4,7 +4,7 @@
 
 ### Brief Summary
 
-Yitong`s current research areas mianly include power electronic converters, distribution power networks, and renewable energy systems. Detailed research fields include converter topologies, converter control, power network control, power and control theories, etc. He also has general interests in power train systems and chargers for electric vehicles, as well as advanced algorithms for smart grids.
+Yitong`s current research includes power electronic converters, distribution power networks, and renewable energy systems. Detailed research areas include converter topologies, converter control, power network control, power and control theories, etc. He also has general interests in power train systems and chargers for electric vehicles, as well as advanced algorithms for smart grids.
 
 <br />
 
