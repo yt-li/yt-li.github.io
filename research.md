@@ -12,9 +12,9 @@
 
 ### Highlights
 
-* **Advanced ac-dc converters for bipolar dc distribution**
+* **Advanced ac-dc topologies**
 
-    The proposed three-phase ac-dc converter topologies can enable bidirectional power flow, and feed bipolar dc poles (i.e. three-wire dc system with positive, negative, and neutral lines) with potentially lower losses, less device costs, and a higher power density.
+    Bidirectional ac-dc converters with bipolar dc outputs.
 
 <br />
 
