@@ -12,7 +12,7 @@
 
 ### Highlights
 
-* **Advanced ac-dc topologies**
+* **Advanced ac-dc converter topologies**
 
     Bidirectional ac-dc converters with bipolar dc outputs.
 
