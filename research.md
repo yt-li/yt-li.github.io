@@ -12,9 +12,9 @@
 
 ### Highlights
 
-* **Advanced ac-dc converter topologies**
+* **Power electronic converter topologies**
 
-    Bidirectional ac-dc converters with bipolar dc outputs.
+    PWM active rectifier + grounding inductor: a bidirectional three-phase ac-dc converter has only six power switches, but is able to feed bipolar dc outputs independently.
 
 <br />
 
