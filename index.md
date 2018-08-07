@@ -18,4 +18,4 @@ Imperial College London
 <br />
 <br />
 
-*Update: Jul 2018*
+*Update: 2018*
