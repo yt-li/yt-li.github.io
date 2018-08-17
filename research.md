@@ -6,7 +6,7 @@
 
 ### Brief Summary
 
-**Yitong Li**`s current research includes power electronic converters for low- and medieum-voltage-level applications, such as distribution networks, distributed generations, microgrids, renewable energy systems, electric vehicles, etc. Detailed research areas include converter topology, converter control, power system stability and control, power and control theories, etc. He also has general interests in advanced algorithms and analysis tools for smart grids.
+**Yitong Li**`s current research includes control techniques and power electronic converters for medieum- and low-voltage-level power systems, such as distribution networks, microgrids, distributed generations, renewable energy systems, electric vehicles, etc. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
 
 <br />
 
