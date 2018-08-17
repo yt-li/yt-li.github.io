@@ -20,7 +20,7 @@
 
 ### Useful Links
 
-[Research Summary](https://yt-li.github.io/research) & Google Scholar
+[Research Summary](https://yt-li.github.io/research) | Google Scholar
 
 <br />
 
