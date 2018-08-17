@@ -18,7 +18,9 @@
 
 <br />
 
-[Publication List](https://yt-li.github.io/publication) & Google Scholar
+### Useful Links
+
+[Publication List](https://yt-li.github.io/publication) | Google Scholar
 
 <br />
 
