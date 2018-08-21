@@ -14,7 +14,7 @@
 
 * **Power electronic converter topologies**
 
-    **PWM active rectifier + grounding inductor:** a bidirectional three-phase ac-dc converter has only six power switches, but is able to feed bipolar dc outputs independently.
+    **PWM active rectifier + grounding inductor:** a bidirectional three-phase ac-dc converter has six power switches, but is able to feed bipolar dc outputs independently.
 
 <br />
 
