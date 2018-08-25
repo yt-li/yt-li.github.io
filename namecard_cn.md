@@ -11,8 +11,8 @@
 电气与电子工程系  
 帝国理工学院
   
-- [科研项目](https://yt-li.github.io/research)
-- [论文列表](https://yt-li.github.io/publication)
+- [科研](https://yt-li.github.io/research)
+- [论文](https://yt-li.github.io/publication)
 - 谷歌学术
 - [领英](https://www.linkedin.com/in/yitong-li/)  
 
