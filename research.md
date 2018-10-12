@@ -10,11 +10,13 @@
 
 <br />
 
+<!---
 ### Highlight
 
 * **Power converter topology**
 
     **Active rectifier with bipolar dc outputs:** a bidirectional three-phase PWM ac-dc converter has six power switches, and is able to feed bipolar dc outputs independently with a grounding inductor.
+--->
 
 <br />
 
