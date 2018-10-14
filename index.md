@@ -6,9 +6,9 @@
 ![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT.png)
   
 ## Yitong Li
-PhD Student  
+PhD Student
 Department of Electrical and Electronic Engineering  
-Imperial College London  
+Imperial College London, UK
 
 - [Research](https://yt-li.github.io/research)
 - [Publication](https://yt-li.github.io/publication)
