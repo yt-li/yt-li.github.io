@@ -8,7 +8,9 @@
 
 ### Journal
 
-\[J1] **Yitong Li***, Adrià Junyent-Ferré, Joan-Marc Rodriguez-Bernuz, "[A three-phase active rectifier topology for bipolar dc distribution](https://ieeexplore.ieee.org/document/7921443/)", IEEE Transactions on Power Electronics, 2018.  
+\[J2] Yunjie Gu, **Yitong Li**, Hyeong-Jun Yoo, Thai-Thanh Nguyen, Xin Xiang*, Hak-Man Kim, Adria Junyent-Ferre, Timothy C. Green, "Transfverter: imbuing transformer-like properties in an interlink converter for robust control of a hybrid ac-dc microgrid", IEEE Transactions on Power Electronics, accepted.  
+
+\[J1] **Yitong Li***, Adria Junyent-Ferre, Joan-Marc Rodriguez-Bernuz, "[A three-phase active rectifier topology for bipolar dc distribution](https://ieeexplore.ieee.org/document/7921443/)", IEEE Transactions on Power Electronics, 2018.  
 
 <br />
 
