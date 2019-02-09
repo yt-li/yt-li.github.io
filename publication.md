@@ -8,6 +8,8 @@
 
 ### Journal
 
+**\[J3]** Ye Wang, **Yitong Li***, Adria Junyent-Ferre, Minsung Kim, "H5+ converter: a bidirectional AC-DC converter with DC-fault-blocking and self-pre-charge capabilities", IEEE Transactions on Power Electronics, accepted.
+
 **\[J2]** Yunjie Gu, **Yitong Li**, Hyeong-Jun Yoo, Thai-Thanh Nguyen, Xin Xiang*, Hak-Man Kim, Adria Junyent-Ferre, Timothy C. Green, "[Transfverter: imbuing transformer-like properties in an interlink converter for robust control of a hybrid ac-dc microgrid](https://ieeexplore.ieee.org/document/8636230)", IEEE Transactions on Power Electronics, early access.  
 
 **\[J1]** **Yitong Li***, Adria Junyent-Ferre, Joan-Marc Rodriguez-Bernuz, "[A three-phase active rectifier topology for bipolar dc distribution](https://ieeexplore.ieee.org/document/7921443/)", IEEE Transactions on Power Electronics, 2018.  
