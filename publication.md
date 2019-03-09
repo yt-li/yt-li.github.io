@@ -26,7 +26,7 @@
 
 ### Preprint
 
-**\[P1]** Yunjie Gu*, **Yitong Li**, Timothy C. Green, "[Impedance/Admittance Modeling of Three-Phase AC Systems: A General Framework](https://arxiv.org/abs/1810.09911)", arXiv, 2018.
+**\[P1]** Yunjie Gu*, **Yitong Li**, Timothy C. Green, "[Impedance/Admittance Modeling of Three-Phase AC Systems: A General Representation](https://arxiv.org/abs/1810.09911)", arXiv, 2018.
 
 <br />
 
