@@ -32,7 +32,7 @@
 
 ### Useful Links
 
-[Research](https://yt-li.github.io/biography) | [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=b3tutrQAAAAJ&view_op=list_works&sortby=pubdate)
+[Biography](https://yt-li.github.io/biography) | [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=b3tutrQAAAAJ&view_op=list_works&sortby=pubdate)
 
 <br />
 
