@@ -9,7 +9,7 @@
 2011 - 2015, &nbsp;&nbsp;&nbsp; BEng, &nbsp;&nbsp;&nbsp; Huazhong University of Science and Technology, China   
 2014 - 2015, &nbsp;&nbsp;&nbsp; BEng, &nbsp;&nbsp;&nbsp; University of Birmingham, UK   
 2015 - 2016, &nbsp;&nbsp;&nbsp; Msc, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Imperial College London, UK   
-2017 - now,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Imperial College London, UK
+2017 - now,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhD, &nbsp;&nbsp;&nbsp;&nbsp; Imperial College London, UK
 
 ### Research
 
