@@ -17,7 +17,7 @@ Yitong Li`s current research includes control techniques and power electronic co
 
 ### Honors and Awards
 
-2016 &nbsp;&nbsp; Department Prize for Outstanding Achievement in Msc Future Power Networks, Imperial College London  
+2016 &nbsp;&nbsp; Department Prize for Outstanding Achievement, Imperial College London  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (For ranking 1st in Msc Future Power Networks.)   
   
 2015 &nbsp;&nbsp; Best BEng Student in EECE Prize, University of Birmingham   
