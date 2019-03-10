@@ -6,10 +6,10 @@
 
 ### Education
 
-2011 - 2015, BEng, Huazhong University of Science and Technology, China
-2014 - 2015, BEng, University of Birmingham, UK
-2015 - 2016, Msc, Imperial College London, UK
-2017 - ...., PhD, Imperial College London, UK
+2011 - 2015, BEng, Huazhong University of Science and Technology, China   
+2014 - 2015, BEng, University of Birmingham, UK   
+2015 - 2016, Msc, Imperial College London, UK   
+2017 - now, PhD, Imperial College London, UK
 
 ### Research
 
