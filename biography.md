@@ -17,8 +17,8 @@
 
 ### Honors and Awards
 
-2016 &nbsp;&nbsp;&nbsp; Department Prize for Outstanding Achievement in Msc Future Power Networks, Imperial College London  
-&nbsp;&nbsp;&nbsp; For 1st ranking in Msc Future Power Networks 
+2016 &nbsp;&nbsp; Department Prize for Outstanding Achievement in Msc Future Power Networks, Imperial College London  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For 1st ranking in Msc Future Power Networks 
 
 <br />
 
