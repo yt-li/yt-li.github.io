@@ -36,7 +36,7 @@ Yitong Li`s current research includes control techniques and power electronic co
 
 ### Useful Links
 
-[Publication](https://yt-li.github.io/publication) | [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=b3tutrQAAAAJ&view_op=list_works&sortby=pubdate)
+[Publication](https://yt-li.github.io/publication) | [Google Scholar](https://scholar.google.co.uk/citations?user=b3tutrQAAAAJ&hl=en)
 
 <br />
 
