@@ -18,7 +18,7 @@
 
 ### Conference
 
-**\[C2]** **Yitong Li (*)**, Adria Junyent-Ferre, Paul D. Judge, "A Boost-Full-Bridge-Type Single-Active-Bridge Isolated AC-DC Converter", Applied Power Electronics Conference and Exposition (APEC) 2019, accepted.
+**\[C2]** **Yitong Li (*)**, Adria Junyent-Ferre, Paul D. Judge, "[A Boost-Full-Bridge-Type Single-Active-Bridge Isolated AC-DC Converter](https://ieeexplore.ieee.org/document/8722294)", Applied Power Electronics Conference and Exposition (APEC), 2019.
 
 **\[C1]** **Yitong Li**, Wei Xu (*), "[Optimization and performance analysis of E-core and C-core flux-switching permanent-magnet machines for electric vehicle applications](https://ieeexplore.ieee.org/document/7013436/)", International Conference on Electrical Machines and Systems (ICEMS), 2014.
 
