@@ -26,6 +26,8 @@
 
 ### Preprint
 
+**\[P2]** Yunjie Gu (*), **Yitong Li**, Yue Zhu, Timothy C. Green, "[Impedance-Based Whole-System Modeling for a Composite Grid via Frame-Dynamics Embedding](https://arxiv.org/abs/1911.01879)", arXiv, 2019.
+
 **\[P1]** Yunjie Gu (*), **Yitong Li**, Timothy C. Green, "[Impedance/Admittance Modeling of Three-Phase AC Systems: A General Representation](https://arxiv.org/abs/1810.09911)", arXiv, 2018.
 
 <br />
