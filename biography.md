@@ -13,7 +13,7 @@
 
 ### Research
 
-Yitong Li`s current research includes control techniques and power electronic converters for ac and dc distribution networks and power systems. Applications include medium- or low-voltage distribution grids, microgrids, distributed generations, sustainable and renewable energy systems, electric vehicles, etc. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
+Yitong Li`s current research includes control techniques and power electronic converters for power systems. Applications include medium- or low-voltage distribution grids, microgrids, distributed generations, sustainable and renewable energy systems, electric vehicles, etc. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
 
 ### Honors and Awards
 
@@ -32,12 +32,11 @@ Yitong Li`s current research includes control techniques and power electronic co
 2011 &nbsp;&nbsp; Excellent Student Leader of the University, Huazhong University of Science and Technology  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Top 5%.)
 
+### Certificates
+
+2019 Chartered Financial Analyst (CFA): Level 1 Passed
+
 <br />
-
-### Useful Links
-
-[Publication](https://yt-li.github.io/publication) | [Google Scholar](https://scholar.google.co.uk/citations?user=b3tutrQAAAAJ&hl=en)
-
 <br />
 
 ### [back](https://yt-li.github.io/)
