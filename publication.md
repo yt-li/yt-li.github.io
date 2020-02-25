@@ -8,7 +8,7 @@
 
 ### Journal
 
-**\[J4]** **Yitong Li**, Yunjie Gu (*), Timothy C. Green, "Interpreting Frame Transformations in AC Systemsas Diagonalization of Harmonic Transfer Functions", IEEE Transactions on Circuits and Systems I: Regular Papers, accepted.
+**\[J4]** **Yitong Li**, Yunjie Gu (*), Timothy C. Green, "Interpreting Frame Transformations in AC Systems as Diagonalization of Harmonic Transfer Functions", IEEE Transactions on Circuits and Systems I: Regular Papers, accepted.
 
 **\[J3]** Ye Wang, **Yitong Li (*)**, Adria Junyent-Ferre, Minsung Kim, "[H5+ Converter: a Bidirectional AC-DC Converter with DC-Fault-Blocking and Self-Pre-Charge Capabilities](https://ieeexplore.ieee.org/document/8645677)", IEEE Transactions on Power Electronics, 2019.
 
