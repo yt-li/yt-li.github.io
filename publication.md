@@ -8,6 +8,8 @@
 
 ### Journal
 
+**\[J4]** **Yitong Li**, Yunjie Gu (*), Timothy C. Green, "Interpreting Frame Transformations in AC Systemsas Diagonalization of Harmonic Transfer Functions", IEEE Transactions on Circuits and Systems I: Regular Papers, accepted.
+
 **\[J3]** Ye Wang, **Yitong Li (*)**, Adria Junyent-Ferre, Minsung Kim, "[H5+ Converter: a Bidirectional AC-DC Converter with DC-Fault-Blocking and Self-Pre-Charge Capabilities](https://ieeexplore.ieee.org/document/8645677)", IEEE Transactions on Power Electronics, 2019.
 
 **\[J2]** Yunjie Gu, **Yitong Li**, Hyeong-Jun Yoo, Thai-Thanh Nguyen, Xin Xiang (*), Hak-Man Kim, Adria Junyent-Ferre, Timothy C. Green, "[Transfverter: Imbuing Transformer-Like Properties in an Interlink Converter for Robust Control of a Hybrid AC-DC Microgrid](https://ieeexplore.ieee.org/document/8636230)", IEEE Transactions on Power Electronics, 2019.
@@ -27,8 +29,6 @@
 ### Preprint
 
 **\[P2]** Yunjie Gu (*), **Yitong Li**, Yue Zhu, Timothy C. Green, "[Impedance-Based Whole-System Modeling for a Composite Grid via Frame-Dynamics Embedding](https://arxiv.org/abs/1911.01879)", arXiv, 2019.
-
-**\[P1]** Yunjie Gu (*), **Yitong Li**, Timothy C. Green, "[Impedance/Admittance Modeling of Three-Phase AC Systems: A General Representation](https://arxiv.org/abs/1810.09911)", arXiv, 2018.
 
 <br />
 
