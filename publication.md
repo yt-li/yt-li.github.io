@@ -8,7 +8,7 @@
 
 ### Journal
 
-**\[J5]** Yunjie Gu, **Yitong Li**, Yue Zhu, Timothy C. Green,  "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame-Dynamics](https://ieeexplore.ieee.org/abstract/document/9123531)", Early Access.
+**\[J5]** Yunjie Gu, **Yitong Li (*)**, Yue Zhu, Timothy C. Green,  "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame-Dynamics](https://ieeexplore.ieee.org/abstract/document/9123531)", Early Access.
 
 **\[J4]** **Yitong Li**, Yunjie Gu (*), Timothy C. Green, "[Interpreting Frame Transformations in AC Systems as Diagonalization of Harmonic Transfer Functions](https://ieeexplore.ieee.org/document/9024227)", IEEE Transactions on Circuits and Systems I: Regular Papers, 2020.
 
