@@ -13,7 +13,7 @@
 
 ### Research
 
-Yitong Li`s current research includes control techniques, modeling framework, and power electronic converters for power systems. Applications include medium- or low-voltage distribution grids, microgrids, distributed generations, sustainable and renewable energy systems, electric vehicles, etc. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
+Yitong Li`s current research includes control techniques, modeling framework, dynamic analysis of power systems consisting of both power converters and synchronous generators. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
 
 ### Honors and Awards
 
