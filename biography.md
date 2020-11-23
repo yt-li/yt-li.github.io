@@ -13,7 +13,9 @@
 
 ### Research
 
-Yitong Li`s current research includes control techniques, modeling framework, dynamic analysis of power systems consisting of both power converters and synchronous generators. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids.
+Yitong Li`s current research includes control techniques, modeling framework, and dynamic analysis of composite multi-machine power systems consisting of both power electronic converters and synchronous generators. He also has general interests in advanced algorithms, control structures, and analysis tools for future low-carbon smart grids. 
+
+Yitong is one of the organizers and main contributors of an open-source tool [(SimplexPowerSystem)](https://https://github.com/Future-Power-Networks/Power-System-Analysis-Toolbox) for power system analysis.
 
 ### Honors and Awards
 

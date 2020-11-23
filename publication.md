@@ -8,7 +8,7 @@
 
 ### Journal
 
-**\[J6]** **Yitong Li**, Yunjie Gu (*), Yue Zhu, Adria Junyent-Ferre, Xin Xiang, Timothy C. Green,  "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)", IEEE Transactions on Power Electronics, Early Access.
+**\[J6]** **Yitong Li**, Yunjie Gu (*), Yue Zhu, Adria Junyent-Ferre, Xin Xiang, Timothy C. Green,  "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)", IEEE Transactions on Power Electronics, 2021.
 
 **\[J5]** Yunjie Gu, **Yitong Li (*)**, Yue Zhu, Timothy C. Green,  "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame-Dynamics](https://ieeexplore.ieee.org/abstract/document/9123531)", IEEE Transactions on Power Systems, Early Access.
 
