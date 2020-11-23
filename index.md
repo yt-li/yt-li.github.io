@@ -5,9 +5,9 @@
 ![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT.png)
   
 ## Yitong Li
-Research Assistant	
-Electrical and Electronic Engineering	
-Imperial College London, UK	
+Research Assistant  
+Electrical and Electronic Engineering  
+Imperial College London, UK  
 Email: yitong.li15@imperial.ac.uk	
 
 - [Biography](https://yt-li.github.io/biography)
