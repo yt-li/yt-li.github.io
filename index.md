@@ -1,6 +1,6 @@
 <br />
 
-![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT_v2.png)
+![](https://raw.githubusercontent.com/yt-li/yt-li.github.io/master/LYT_v2.jpg)
   
 ## Yitong Li
 Research Assistant  
