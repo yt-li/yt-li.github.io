@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="71mm"
-   height="95mm"
-   viewBox="0 0 71 95"
+   width="32mm"
+   height="43mm"
+   viewBox="0 0 32 43"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="LYT_origion.svg">
+   sodipodi:docname="LYT_origion.svg"
+   inkscape:export-filename="C:\GitHub\yt-li.github.io\LYT_v2.png"
+   inkscape:export-xdpi="249.918"
+   inkscape:export-ydpi="249.918">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="411.03748"
-     inkscape:cy="72.714749"
+     inkscape:zoom="5.6"
+     inkscape:cx="212.33753"
+     inkscape:cy="90.207515"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-202)">
+     transform="translate(0,-254)">
     <image
-       y="202.54375"
-       x="0.66145414"
+       y="254.38181"
+       x="0.42521903"
        id="image823"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsY
 GxofIywlHyEqIRobJjQnKi4vMTIxHiU2OjYwOiwwMTD/2wBDAQgJCQwKDBcMDBcwIBsgMDAwMDAw
@@ -1246,7 +1249,7 @@ igetAD0FI/3qclI3WkA3NIR/OlNJVAN6Ugp4HFNxzQAZzzSryM0jdM0meKAFY0gopcUgHfw0Ui8i
 imB//9k=
 "
        preserveAspectRatio="none"
-       height="94.140572"
-       width="69.925598" />
+       height="42.349754"
+       width="31.456488" />
   </g>
 </svg>
