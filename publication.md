@@ -6,11 +6,11 @@
 
 <br />
 
-### Journal
+### IEEE Journal
 
 **\[J6]** **Yitong Li**, Yunjie Gu (*), Yue Zhu, Adria Junyent-Ferre, Xin Xiang, Timothy C. Green,  "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)", IEEE Transactions on Power Electronics, 2021.
 
-**\[J5]** Yunjie Gu, **Yitong Li (*)**, Yue Zhu, Timothy C. Green,  "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame-Dynamics](https://ieeexplore.ieee.org/abstract/document/9123531)", IEEE Transactions on Power Systems, Early Access.
+**\[J5]** Yunjie Gu, **Yitong Li (*)**, Yue Zhu, Timothy C. Green,  "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame-Dynamics](https://ieeexplore.ieee.org/abstract/document/9123531)", IEEE Transactions on Power Systems, 2021.
 
 **\[J4]** **Yitong Li**, Yunjie Gu (*), Timothy C. Green, "[Interpreting Frame Transformations in AC Systems as Diagonalization of Harmonic Transfer Functions](https://ieeexplore.ieee.org/document/9024227)", IEEE Transactions on Circuits and Systems I: Regular Papers, 2020.
 
@@ -22,7 +22,7 @@
 
 <br />
 
-### Conference
+### IEEE Conference
 
 **\[C2]** **Yitong Li (*)**, Adria Junyent-Ferre, Paul D. Judge, "[A Boost-Full-Bridge-Type Single-Active-Bridge Isolated AC-DC Converter](https://ieeexplore.ieee.org/document/8722294)", Applied Power Electronics Conference and Exposition (APEC), 2019.
 
