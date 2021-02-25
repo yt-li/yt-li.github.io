@@ -17,7 +17,7 @@
 
 ### Research
 
-Yitong's current research includes modeling, control, and analysis of more-electronic power systems consisting of both power electronic converters and synchronous generators. He is the leading developer and organizer of an open-source tool ([SimplexPowerSystem](https://github.com/Future-Power-Networks/Power-System-Analysis-Toolbox)) for power system analysis.
+Yitong's research focuses on dynamic analysis and stability of more-electronic power systems with high penetration level of power electronic converters. He is the organizer, architect, and the leading developer of an open-source tool ([SimplexPowerSystem](https://github.com/Future-Power-Networks/Power-System-Analysis-Toolbox)) for power system analysis.
 
 ### Honors and Awards
 
