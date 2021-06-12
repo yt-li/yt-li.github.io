@@ -6,18 +6,18 @@
 
 ### Education
 
-2017 - 2020, PhD, Imperial College London, UK   
+2017 - 2021, PhD, Imperial College London, UK   
 2015 - 2016, Msc, Imperial College London, UK   
 2014 - 2015, BEng, University of Birmingham, UK   
 2011 - 2015, BEng, Huazhong University of Science and Technology (HUST), China 
 
 ### Experience
 
-2020 - Present, Research Assistant/Associate, Imperial College London, UK
+2020 - Now, Research Assistant/Associate, Imperial College London, UK
 
 ### Research
 
-Yitong's research focuses on dynamic analysis and stability of more-electronic power systems with high penetration level of power electronic converters. He is the organizer, architect, and the leading developer of an open-source tool ([SimplexPowerSystem](https://github.com/Future-Power-Networks/Power-System-Analysis-Toolbox)) for power system analysis.
+Yitong's research focuses on dynamics and stability of low-carbon power systems with high penetration level of converter-based renewable energy resources. He is the architect and leading developer of an open-source tool ([Simplus Grid Tool](https://github.com/Future-Power-Networks/Simplus-Grid-Tool)).
 
 ### Honors and Awards
 
