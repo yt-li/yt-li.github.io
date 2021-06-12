@@ -6,13 +6,13 @@
 
 <br />
 
-### Highlighted Papers
+### Three Highlighted Papers
 
-[3] **Yitong**, Yunjie Gu (*), Timothy C. Green, "[Rethinking Grid-Forming and Grid-Following Inverters: A Duality Theory](https://arxiv.org/abs/2105.13094?context=eess)", Preprint, 2021.
+**Yitong**, Yunjie Gu (*), Timothy C. Green, "[Rethinking Grid-Forming and Grid-Following Inverters: A Duality Theory](https://arxiv.org/abs/2105.13094?context=eess)", Preprint, 2021.
 
-[2] Yunjie Gu, **Yitong Li (*)**, Timothy C. Green, "[The Nature of Synchronization in Power Systems: Insights from Communication Theory](https://arxiv.org/abs/2103.16608)", Preprint, 2021.
+Yunjie Gu, **Yitong Li (*)**, Timothy C. Green, "[The Nature of Synchronization in Power Systems: Insights from Communication Theory](https://arxiv.org/abs/2103.16608)", Preprint, 2021.
 
-[1] **Yitong Li**, Yunjie Gu (*), Yue Zhu, Adria Junyent-Ferre, Xin Xiang, Timothy C. Green,  "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)", IEEE Transactions on Power Electronics, 2021.
+**Yitong Li**, Yunjie Gu (*), Yue Zhu, Adria Junyent-Ferre, Xin Xiang, Timothy C. Green,  "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)", IEEE Transactions on Power Electronics, 2021.
 
 ### IEEE Transaction/Journal/Magazine Articles
 
