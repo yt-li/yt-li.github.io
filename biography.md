@@ -17,7 +17,7 @@
 
 ### Research
 
-Yitong's research focuses on dynamics and stability of low-carbon power systems with high penetration level of converter-based renewable energy resources. He is the architect and leading developer of an open-source tool ([Simplus Grid Tool](https://github.com/Future-Power-Networks/Simplus-Grid-Tool)).
+Yitong's research focuses on dynamics of low-carbon power systems with converter-based renewable energy resources. He is the architect and developer of an open-source tool ([Simplus Grid Tool](https://github.com/Future-Power-Networks/Simplus-Grid-Tool)).
 
 ### Honors and Awards
 

@@ -6,7 +6,7 @@
 
 <br />
 
-### Top 3 Highlighted Papers
+### 3 Highlighted Papers
 
 **Yitong**, Yunjie Gu (*), Timothy C. Green, "[Rethinking Grid-Forming and Grid-Following Inverters: A Duality Theory](https://arxiv.org/abs/2105.13094?context=eess)", Preprint, 2021.
 
@@ -16,7 +16,7 @@ Yunjie Gu, **Yitong Li (*)**, Timothy C. Green, "[The Nature of Synchronization 
 
 <br />
 
-### IEEE Transaction/Journal/Magazine Articles
+### IEEE Transaction/Journal/Magazine
 
 **\[7]** Yue Zhu, Yunjie Gu (*), **Yitong Li**, Timothy C. Green, "[Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability](https://ieeexplore.ieee.org/document/9451617)", IEEE Transactions on Power Systems, Early Access.
 
@@ -34,7 +34,7 @@ Yunjie Gu, **Yitong Li (*)**, Timothy C. Green, "[The Nature of Synchronization 
 
 <br />
 
-### IEEE Conference Papers
+### IEEE Conference
 
 **\[2]** **Yitong Li (*)**, Adria Junyent-Ferre, Paul D. Judge, "[A Boost-Full-Bridge-Type Single-Active-Bridge Isolated AC-DC Converter](https://ieeexplore.ieee.org/document/8722294)", Applied Power Electronics Conference and Exposition (APEC), 2019.
 
